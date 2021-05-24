@@ -96,7 +96,7 @@ public class Cafetera implements InterfaceCafetera {
     }
 
     /**
-     * Getter para conseguir la capacidad Maxima
+     * Conseguimos la capacidad Maxima
      *
      * @return the capMaxima
      */
@@ -106,7 +106,7 @@ public class Cafetera implements InterfaceCafetera {
     }
 
     /**
-     * Setter para establecer la capacidad Maxima
+     * Establecemos la capacidad Maxima
      *
      * @param capMaxima the capMaxima to set
      */
@@ -116,7 +116,7 @@ public class Cafetera implements InterfaceCafetera {
     }
 
     /**
-     * Getter para conseguir la cantidad Actual
+     * Conseguimos la cantidad Actual
      *
      * @return the cantActual
      */
@@ -126,7 +126,7 @@ public class Cafetera implements InterfaceCafetera {
     }
 
     /**
-     * Setter para establecer la cantidad Actual
+     * Establecemos la cantidad Actual
      *
      * @param cantActual the cantActual to set
      */
